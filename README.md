@@ -5,6 +5,9 @@ Curated list of awesome commercial services that require x402 payments and use M
 ### Table of Contents
 
 - [Search](#search)
+- [Web Access](#web-access)
+- [Crypto & DeFi](#crypto--defi)
+- [Speech-to-Text](#speech-to-text)
 
 ### Helpful Links
 
@@ -15,6 +18,19 @@ Curated list of awesome commercial services that require x402 payments and use M
 ### Search
 
 - [Recall Kitchen](https://recallkitchen.com/docs/#mcp) offers search for product, food, and vehicle recalls.
+
+### Web Access
+
+- [CyberWareX Agent Web Access](https://web.cyberwarex.com) offers live web pages as LLM-ready markdown, CSS-selector extraction, screenshots, and PDFs ($0.005–$0.01 per call, USDC on Base).
+
+### Crypto & DeFi
+
+- [CyberWareX DeFi Safety Oracle](https://oracle.cyberwarex.com) offers deterministic token honeypot/rug-pull checks with A–F grades and evidence, on Base and BSC ($0.01–$0.03 per call).
+- [CyberWareX Onchain Query API](https://chain.cyberwarex.com) offers wallet, token, price, gas, transaction, and ENS data across 5 EVM chains (from $0.002 per call).
+
+### Speech-to-Text
+
+- [CyberWareX Voice-to-Text](https://voice.cyberwarex.com) offers voice-message transcription at $0.015 per 10-second block.
 
 ## Developers
 
